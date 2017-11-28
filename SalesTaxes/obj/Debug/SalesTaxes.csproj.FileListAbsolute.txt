@@ -1,0 +1,7 @@
+c:\users\yoolbin\source\repos\SalesTaxes\SalesTaxes\bin\Debug\SalesTaxes.exe.config
+c:\users\yoolbin\source\repos\SalesTaxes\SalesTaxes\bin\Debug\SalesTaxes.exe
+c:\users\yoolbin\source\repos\SalesTaxes\SalesTaxes\bin\Debug\SalesTaxes.pdb
+c:\users\yoolbin\source\repos\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.csprojResolveAssemblyReference.cache
+c:\users\yoolbin\source\repos\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.csproj.CoreCompileInputs.cache
+c:\users\yoolbin\source\repos\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.exe
+c:\users\yoolbin\source\repos\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.pdb
